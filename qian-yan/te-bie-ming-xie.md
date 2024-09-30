@@ -8,4 +8,4 @@
 
 衷心感谢上述朋友对本手册提出的意见和建议，以及发现的 Bug，正是有了你们，手册才会越来越完善。
 
-我也要为亚马逊运营手册[反馈](mailto:li.fun@foxmail.com)问题，如以上名单信息不准确，请联系我。
+我也要为亚马逊运营手册[反馈](https://github.com/UGGKA/Amazon-Operations-Manual/issues)问题，如以上名单信息不准确，请联系我。
