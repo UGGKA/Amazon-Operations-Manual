@@ -17,7 +17,7 @@
 
 专利分为外观专利和实用专利，外观专利顾名思义就是长得不太一样就可以规避。实用专利的话就是结构或者功能性的专利，只要功能类似都算侵权。
 
-[谷歌专利（需翻墙）](https://patents.google.com/)[WIPO](https://designdb.wipo.int/designdb/en/index.jsp)局
+[谷歌专利（需翻墙）](https://patents.google.com/)[WIPO](https://designdb.wipo.int/designdb/en/index.jsp)
 
 
 
