@@ -45,6 +45,6 @@
 
 ## 版权侵权
 
-版权比较简单图片、文字、IP、电影等都属于版权范畴，在上架的时候尽量避免动漫人物，这类 IP 是最容易侵权的，比如：蜘蛛侠、白雪公主、米老鼠等等，更多内容可以查看亚马逊[卖家知识产权政策 - 关于版权的常见问题](https://sellercentral.amazon.com/help/hub/reference/GJLSFCSEA8C9EZYZ)、
+版权比较简单图片、文字、IP、电影等都属于版权范畴，在上架的时候尽量避免动漫人物，这类 IP 是最容易侵权的，比如：蜘蛛侠、白雪公主、米老鼠等等，更多内容可以查看亚马逊[卖家知识产权政策 - 关于版权的常见问题](https://sellercentral.amazon.com/help/hub/reference/GJLSFCSEA8C9EZYZ)
 
-* [根据 DMCA 提交反通知的流程](https://sellercentral.amazon.com/help/hub/reference/G202017130)
+如果是遭遇到卖家的恶意版权投诉，可以[根据 DMCA 提交反通知的流程](https://sellercentral.amazon.com/help/hub/reference/G202017130)。
