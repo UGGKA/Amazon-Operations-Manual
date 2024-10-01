@@ -39,8 +39,8 @@
 
 ## 第三章：亚马逊产品页面优化
 
-* [😈 亚马逊 A9 算法介绍](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/ya-ma-xun-a9-suan-fa-jie-shao.md)
-* [🏀 （未完成）关键词调研与优化技巧](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/wei-wan-cheng-guan-jian-ci-diao-yan-yu-you-hua-ji-qiao.md)
+* [😈 亚马逊算法介绍](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/ya-ma-xun-suan-fa-jie-shao.md)
+* [🏀 关键词调研与优化技巧](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/guan-jian-ci-diao-yan-yu-you-hua-ji-qiao.md)
 * [🖌️ Listing](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/listing.md)
 * [🚀 上传产品](di-san-zhang-ya-ma-xun-chan-pin-ye-mian-you-hua/shang-chuan-chan-pin.md)
 

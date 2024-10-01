@@ -1,6 +1,6 @@
-# 😈 亚马逊 A9 算法介绍
+# 😈 亚马逊算法介绍
 
-亚马逊搜索的核心逻辑就是让好的产品更容易被发现，也许现在已经是 A10 算法了，然后最近还加入了 AI 搜索 [COSMO](https://blog.sanshiliu.com/guan-yu-ya-ma-xun-COSMO-suan-fa-de-fei-guan-fang-jie-du-md)，但是核心逻辑是没变的，可以观看之前我发布的[《浅谈亚马逊A9算法》](https://www.bilibili.com/video/BV1EE411c7CW)
+亚马逊搜索的核心逻辑就是让好的产品更容易被发现，也许现在已经是 A10 算法了，最近还加入了 AI 搜索 [COSMO](https://mp.weixin.qq.com/s?\_\_biz=MjM5NDQ3OTYyMg==\&mid=2247484324\&idx=1\&sn=adbd7b53232ee221b5c6c47b1a5c4cb1\&chksm=a68668cd91f1e1db5163c8bbea50d47814079df27324a78fbd0352e706523f04e88a1052eef3\&token=913595085\&lang=zh\_CN#rd)，但是核心逻辑是没变的，可以观看之前我发布的[《浅谈亚马逊A9算法》](https://www.bilibili.com/video/BV1EE411c7CW)
 
 ## COSMO 算法解读
 
