@@ -62,8 +62,8 @@
 ## 第五章：亚马逊广告投放策略
 
 * [站内广告](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/README.md)
-  * [亚马逊广告类型介绍](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/ya-ma-xun-guang-gao-lei-xing-jie-shao.md)
-  * [如何创建广告活动](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/ru-he-chuang-jian-guang-gao-huo-dong.md)
+  * [🙀 亚马逊广告类型介绍](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/ya-ma-xun-guang-gao-lei-xing-jie-shao.md)
+  * [🔗 如何创建广告活动](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/ru-he-chuang-jian-guang-gao-huo-dong.md)
   * [广告关键词投放技巧](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-guan-jian-ci-tou-fang-ji-qiao.md)
   * [广告预算与竞价策略](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-yu-suan-yu-jing-jia-ce-le.md)
   * [广告结构与优化技巧](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-jie-gou-yu-you-hua-ji-qiao.md)
