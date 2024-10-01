@@ -17,10 +17,30 @@
 
 专利分为外观专利和实用专利，外观专利顾名思义就是长得不太一样就可以规避。实用专利的话就是结构或者功能性的专利，只要功能类似都算侵权。
 
-[谷歌专利（需翻墙）](https://patents.google.com/)、[WIPO](https://designdb.wipo.int/designdb/en/index.jsp)、
+[谷歌专利（需翻墙）](https://patents.google.com/)、[WIPO](https://designdb.wipo.int/designdb/en/index.jsp)、[美国专利局](https://www.uspto.gov/patents/search/patent-public-search)、[欧洲专利局](https://www.epo.org/en/searching-for-patents)
 
-121312312354564
+查找专利是一个很复杂的过程，如果你才开始进入亚马逊最好的办法就是如果市面上买这个款式的人很少或者都是一家公司就可以先不做这个产品，平时也可以多关注一些专利方面的新闻。
 
+### 美国专利简单查询
 
+进入美国专利局：[https://www.uspto.gov/patents/search/patent-public-search](https://www.uspto.gov/patents/search/patent-public-search)
+
+<figure><img src="../.gitbook/assets/1727755537781.jpg" alt=""><figcaption><p>美国商标局官网</p></figcaption></figure>
+
+在已知专利号的情况下在 Quick lookup 栏中输入专利号即可查询到专利情况：
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>专利号查询</p></figcaption></figure>
+
+在已知注册人、代理人、律师等信息的情况下可以在 Basic search 栏中输入相应信息：
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>拓展查询</p></figcaption></figure>
+
+### 美国专利高级查询
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>高级查询</p></figcaption></figure>
+
+在输入框中输入公式 `(搜索关键词).TI.`` `_`AND`_` ``*D*.SRC.` 点击搜索即可，比如我搜索了 dress 相关专利，就得到了 126 个专利结果，搜索结果会根据搜索词的不同而显示不同。
+
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>(dress).TI. <em>AND</em> *D*.SRC.</p></figcaption></figure>
 
 ## 版权侵权
