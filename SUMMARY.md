@@ -50,7 +50,7 @@
 * [🏚️ 亚马逊库存管理](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ya-ma-xun-ku-cun-guan-li/README.md)
   * [🇺🇲 FBA 与 FBM 的区别](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ya-ma-xun-ku-cun-guan-li/fba-yu-fbm-de-qu-bie.md)
   * [🚢 FBA 发货流程](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ya-ma-xun-ku-cun-guan-li/fba-fa-huo-liu-cheng.md)
-  * [（未完成）库存管理与优化策略](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ya-ma-xun-ku-cun-guan-li/wei-wan-cheng-ku-cun-guan-li-yu-you-hua-ce-le.md)
+  * [🥚 库存管理](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ya-ma-xun-ku-cun-guan-li/ku-cun-guan-li.md)
 * [🔥 价格策略与促销](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/jia-ge-ce-le-yu-cu-xiao/README.md)
   * [🤖 产品定价](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/jia-ge-ce-le-yu-cu-xiao/chan-pin-ding-jia.md)
   * [💬 促销手段](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/jia-ge-ce-le-yu-cu-xiao/cu-xiao-shou-duan.md)
