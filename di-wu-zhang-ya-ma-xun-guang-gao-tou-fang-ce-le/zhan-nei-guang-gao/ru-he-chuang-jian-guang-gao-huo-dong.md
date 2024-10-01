@@ -1,6 +1,8 @@
 # 🔗 如何创建广告活动
 
-品类投放进入亚马逊广告后台
+亚马逊所有广告类型创建的方式都大同小异，这里仅拿商品广告进行示范
+
+## 进入亚马逊广告后台
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>进入亚马逊广告后台</p></figcaption></figure>
 
