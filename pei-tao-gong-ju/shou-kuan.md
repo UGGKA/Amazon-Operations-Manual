@@ -2,6 +2,10 @@
 
 亚马逊使用第三方收款必须使用亚马逊[销售伙伴应用商店](https://sellercentral.amazon.com/selling-partner-appstore/search?category=f00228ab-f2c8-4e3d-ac20-d4c159e5e482\&marketplacesIds=US\&supportedLanguages=zh\&pageNumber=1\&pageSize=48\&locale=zh-CN)列出的公司，收款平台有太多太多，选择适合自己的比就好，其他平台因为我没有使用过，所以这里不再一一列举，可以自行百度或者其他渠道获取信息。
 
+{% hint style="danger" %}
+不要一个收款里面收多个亚马逊店铺的钱，有可能会造成财务关联。
+{% endhint %}
+
 ## Pingpong
 
 杭州乒乓智能技术有限公司（简称 PingPong ）成立于 2015 年，诞生于全球跨境电子交易蓬勃发展的浪潮中，是中国跨境行业的创新推动者。目前，PingPong 在全球设有超 20 个分支机构，业务覆盖超 200 个国家和地区，是全球最大的跨境贸易数字化服务商之一。
