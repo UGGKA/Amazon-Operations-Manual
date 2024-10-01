@@ -34,7 +34,7 @@
 
 当我们的产品滞销，长期仓储费又贵的时候我们就要考虑要弃置商品了，这也会有操作费。[查看详情](https://sellercentral.amazon.com/help/hub/reference/G5FKTA8LXU4TZPD5)
 
-在弃置之前可以尝试[促销](../jia-ge-ce-le-yu-cu-xiao/cu-xiao-shou-duan.md)方案
+在弃置之前可以尝试[促销](../jia-ge-ce-le-yu-cu-xiao/cu-xiao-shou-duan.md)方案打折处理，也可以查看[清库存的技巧](../qing-ku-cun-de-ji-qiao.md)找到合适的方案。
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 

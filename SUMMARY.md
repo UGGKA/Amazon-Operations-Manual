@@ -57,7 +57,7 @@
 * [📀 订单管理与客户服务](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ding-dan-guan-li-yu-ke-hu-fu-wu/README.md)
   * [🚚 FBM 自发货流程](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ding-dan-guan-li-yu-ke-hu-fu-wu/fbm-zi-fa-huo-liu-cheng.md)
   * [🚩 评论优化](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ding-dan-guan-li-yu-ke-hu-fu-wu/ping-lun-you-hua.md)
-* [清库存的技巧](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/qing-ku-cun-de-ji-qiao.md)
+* [😤 清库存的技巧](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/qing-ku-cun-de-ji-qiao.md)
 
 ## 第五章：亚马逊广告投放策略
 
