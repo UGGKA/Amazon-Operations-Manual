@@ -29,6 +29,7 @@ layout:
 
 * 微信公众号：三十六Alan
 * 官网：[sanshiliu.com](https://sanshiliu.com/)
+* 动态：[https://chaguan.im/@sslgzs](https://chaguan.im/@sslgzs)
 
 ## 常见问题
 
