@@ -31,8 +31,8 @@
 
 ## 第二章：选品策略与产品开发
 
-* [产品合规性](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/chan-pin-he-gui-xing.md)
-* [如何避免侵权](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/ru-he-bi-mian-qin-quan.md)
+* [🛟 产品合规性](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/chan-pin-he-gui-xing.md)
+* [🆖 如何避免侵权](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/ru-he-bi-mian-qin-quan.md)
 * [🌴 选品思路](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/xuan-pin-si-lu.md)
 * [🥳 市场调研](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/shi-chang-diao-yan.md)
 * [🤝 供应商](di-er-zhang-xuan-pin-ce-le-yu-chan-pin-kai-fa/gong-ying-shang.md)
