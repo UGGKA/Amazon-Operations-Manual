@@ -21,5 +21,5 @@
 
 可以在这个表中看到竞对的主要流量来源和自然位置以及广告情况，结合右边的 ABA 搜索排名可以快速判断哪些是主要关键词，哪些是次关键词。
 
-把数据收集下来之后就可以埋入 [lisitng](listing.md) 中以及用做后续开[广告](../di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-guan-jian-ci-tou-fang-ji-qiao.md)。
+把数据收集下来之后就可以埋入 [lisitng](listing.md) 中以及用做后续开[广告](../di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-tou-fang-ji-qiao.md)。
 

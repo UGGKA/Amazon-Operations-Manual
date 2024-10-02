@@ -28,6 +28,7 @@ layout:
 ## 联系我们
 
 * 微信公众号：三十六Alan
+* 私人微信：JUNECX
 * 官网：[sanshiliu.com](https://sanshiliu.com/)
 * 动态：[https://chaguan.im/@sslgzs](https://chaguan.im/@sslgzs)
 * 视频教程：[泼辣有课](https://www.bilibili.com/video/BV1Wm411Q7Hj/?spm\_id\_from=333.999.0.0\&vd\_source=f23ba2b441e28ab3f2f0fa4adad192e5)
