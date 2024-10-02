@@ -1,8 +1,14 @@
-# 广告优化技巧
+# 🍅 广告优化技巧
 
 {% hint style="info" %}
 如果要降低 ACOS，上策是提高转化率，下策是降低 CPC。这两者之间都是相辅相成的，转化率高，链接权重就高，链接权重高自然流量就越多，CPC 也就越便宜。
 {% endhint %}
+
+## 广告归因
+
+在开始分析广告数据之前，我们要先了解[广告归因](https://advertising.amazon.com/help/GX7KDKHMWQYMJ385)
+
+<figure><img src="../../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## 广告 ACOS 的优化
 
