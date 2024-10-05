@@ -8,19 +8,19 @@
 
 ### 挖掘用户意图
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p><strong>挖掘用户意图</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p><strong>挖掘用户意图</strong></p></figcaption></figure>
 
 比如：一个孕妇想要购买一双鞋子，在亚马逊的搜索框里搜索“孕妇鞋”，COSMO 算法会基于 GPT 或者 OPT 等大语言模型中存储的大量“人类常识”以及询问“用户购买或共同购买的原因”，分析得出“防滑等功能对于孕妇的重要性”，然后推荐了防滑鞋等能够抓住孕妇需求痛点的产品从而提高转化率。
 
 ### 多轮导航
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><strong>多轮导航</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>多轮导航</strong></p></figcaption></figure>
 
 例如：对“露营”的搜索可能会引导到“充气床垫”的选择，然后细化为“露营用充气床垫”。COSMO 接着会提供各种类型的露营用充气床垫，以满足不同需求，如湖边露营、山地露营或者 4 人露营等。
 
 ### 亚马逊搜索常识图谱
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><strong>亚马逊搜索常识图谱</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><strong>亚马逊搜索常识图谱</strong></p></figcaption></figure>
 
 看完上图，我们会发现这些内容和 SD 广告中的人群投放选择非常相似。分别从功能、场景、受众、季节、兴趣等方向入手。
 
