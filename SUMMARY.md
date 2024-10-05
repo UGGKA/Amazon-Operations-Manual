@@ -58,6 +58,7 @@
   * [🚚 FBM 自发货流程](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ding-dan-guan-li-yu-ke-hu-fu-wu/fbm-zi-fa-huo-liu-cheng.md)
   * [🚩 评论优化](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/ding-dan-guan-li-yu-ke-hu-fu-wu/ping-lun-you-hua.md)
 * [😤 清库存的技巧](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/qing-ku-cun-de-ji-qiao.md)
+* [B2B](di-si-zhang-ya-ma-xun-yun-ying-ji-chu/b2b.md)
 
 ## 第五章：亚马逊广告投放策略
 
@@ -68,7 +69,7 @@
   * [🍅 广告优化技巧](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-you-hua-ji-qiao/README.md)
     * [🟢 广告名词解释](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-you-hua-ji-qiao/guang-gao-ming-ci-jie-shi.md)
     * [🫓 亚马逊广告报告](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-nei-guang-gao/guang-gao-you-hua-ji-qiao/ya-ma-xun-guang-gao-bao-gao.md)
-* [站外引流](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-wai-yin-liu.md)
+* [🐳 站外引流](di-wu-zhang-ya-ma-xun-guang-gao-tou-fang-ce-le/zhan-wai-yin-liu.md)
 
 ## 第六章：数据分析与店铺优化
 
