@@ -16,11 +16,11 @@
 
 以上是常用的一些广告报告，建议设置为每月自动下载报告，等到需要的时候可以拿到相应的广告数据。还有其他很多类型的广告根据自己的需求进行下载。
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 立即就是马上下载的意思，未来是预约下载，定期就是我们说的自动下载了，可以选择每天、每周、每月自动下载。我建议可以选择报告期为上个月，然后选择每月定期下载，这样就可以按月存档了。
 

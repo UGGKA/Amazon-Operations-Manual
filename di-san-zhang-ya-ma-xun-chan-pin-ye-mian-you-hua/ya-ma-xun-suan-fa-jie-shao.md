@@ -14,13 +14,13 @@
 
 ### 多轮导航
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p><strong>多轮导航</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><strong>多轮导航</strong></p></figcaption></figure>
 
 例如：对“露营”的搜索可能会引导到“充气床垫”的选择，然后细化为“露营用充气床垫”。COSMO 接着会提供各种类型的露营用充气床垫，以满足不同需求，如湖边露营、山地露营或者 4 人露营等。
 
 ### 亚马逊搜索常识图谱
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p><strong>亚马逊搜索常识图谱</strong></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p><strong>亚马逊搜索常识图谱</strong></p></figcaption></figure>
 
 看完上图，我们会发现这些内容和 SD 广告中的人群投放选择非常相似。分别从功能、场景、受众、季节、兴趣等方向入手。
 

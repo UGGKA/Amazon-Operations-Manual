@@ -73,6 +73,7 @@
 
 ## 第六章：数据分析与店铺优化
 
+* [账户状况](di-liu-zhang-shu-ju-fen-xi-yu-dian-pu-you-hua/zhang-hu-zhuang-kuang.md)
 * [亚马逊常用数据报告](di-liu-zhang-shu-ju-fen-xi-yu-dian-pu-you-hua/ya-ma-xun-chang-yong-shu-ju-bao-gao.md)
 * [如何分析销售数据](di-liu-zhang-shu-ju-fen-xi-yu-dian-pu-you-hua/ru-he-fen-xi-xiao-shou-shu-ju.md)
 

@@ -20,13 +20,13 @@
 
 更多注意事项可以访问：https://sellercentral.amazon.com/help/hub/reference/200141510
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 选择需要发货的商品
 
 在库存管理界面勾选需要发货的商品，全部勾选之后选择【发/补货】
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 添加危险品信息
 
