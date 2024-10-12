@@ -3,11 +3,18 @@
 ## 前言
 
 * [👋 手册简介](README.md)
-* [❤️ 更新记录](qian-yan/geng-xin-ji-lu.md)
 * [😁 一些声明](qian-yan/yi-xie-sheng-ming.md)
 * [🤩 请我喝茶](qian-yan/qing-wo-he-cha.md)
 * [🙏 特别鸣谢](qian-yan/te-bie-ming-xie.md)
-* [😀 亚马逊政策变动](qian-yan/ya-ma-xun-zheng-ce-bian-dong.md)
+
+## 档案馆
+
+* [❤️ 手册更新记录](dang-an-guan/shou-ce-geng-xin-ji-lu.md)
+* [😀 亚马逊规则](dang-an-guan/ya-ma-xun-gui-ze.md)
+* [明星企业&人](dang-an-guan/ming-xing-qi-ye-ren.md)
+* [常见问题](dang-an-guan/chang-jian-wen-ti/README.md)
+  * [选品相关](dang-an-guan/chang-jian-wen-ti/xuan-pin-xiang-guan.md)
+  * [广告相关](dang-an-guan/chang-jian-wen-ti/guang-gao-xiang-guan.md)
 
 ## 配套工具
 
@@ -83,8 +90,3 @@
 * [亚马逊品牌备案流程](di-qi-zhang-ya-ma-xun-pin-pai-jian-she-yu-bao-hu/ya-ma-xun-pin-pai-bei-an-liu-cheng.md)
 * [亚马逊旗舰店设计](di-qi-zhang-ya-ma-xun-pin-pai-jian-she-yu-bao-hu/ya-ma-xun-qi-jian-dian-she-ji.md)
 * [如何应对跟卖问题](di-qi-zhang-ya-ma-xun-pin-pai-jian-she-yu-bao-hu/ru-he-ying-dui-gen-mai-wen-ti.md)
-
-## 常见问题解答
-
-* [选品相关](chang-jian-wen-ti-jie-da/xuan-pin-xiang-guan.md)
-* [广告相关](chang-jian-wen-ti-jie-da/guang-gao-xiang-guan.md)
