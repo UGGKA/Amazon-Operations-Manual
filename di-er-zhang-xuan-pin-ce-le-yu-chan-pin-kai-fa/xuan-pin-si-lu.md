@@ -48,7 +48,7 @@ layout:
 
 1. 亚马逊各个类目的榜单；
 2. 批发网站，例如：[1688跨境专供](https://sale.1688.com/sale/kuajing/global/index.html?spm=a260k.dacugeneral.home2019scene.d3.663335e4VrTSwr&\_\_pageId\_\_=188249\&cms\_id=188249\&wh\_pha=true#/home)
-3. 使用软件选品；点击查看推荐软件
+3. 使用软件选品；[点击查看推荐软件](../pei-tao-gong-ju/chang-yong-ruan-jian.md)
 4. 其他电商平台选品
 5. 社交媒体选品
 6. 监控竟对店铺，他上什么你上什么
