@@ -7,6 +7,7 @@
 * [😁 一些声明](qian-yan/yi-xie-sheng-ming.md)
 * [🤩 请我喝茶](qian-yan/qing-wo-he-cha.md)
 * [🙏 特别鸣谢](qian-yan/te-bie-ming-xie.md)
+* [😀 亚马逊政策变动](qian-yan/ya-ma-xun-zheng-ce-bian-dong.md)
 
 ## 配套工具
 
